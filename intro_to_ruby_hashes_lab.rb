@@ -76,6 +76,7 @@ def monopoly_with_fourth_tier
   bash_hash[:railroads][:names][:pennsylvania_railroad][:mortgage_value] = 200
   bash_hash[:railroads][:names][:b_and_o_railroad][:mortgage_value] = 400
   bash_hash[:railroads][:names][:shortline_railroad][:mortgage_value] = 800
+  bash_hash
 
 
 end
